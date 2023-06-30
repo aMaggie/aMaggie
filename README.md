@@ -3,7 +3,7 @@
 <!--
 **aMaggie/aMaggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Time is like water in a sponge. When you sqeeze, water will ooze out. —— Lu Xun
+Time is like water in a sponge. When you sqeeze, water will ooze out. —— Lu Xun  
 What interests me is living and dying for what one loves. —— Albert Camus
 
 
